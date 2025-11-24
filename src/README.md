@@ -129,4 +129,8 @@ Ideal for Python learners looking to practice:
 - CSV handling  
 - NumPy  
 - Matplotlib  
-- terminal-based applications  
+- terminal-based applications
+
+How to Run (Setup Instructions)
+1.)   Clone the Repository:
+         https://github.com/ayonijatripathi18-eng/Sweet-Bliss
