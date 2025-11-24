@@ -1,0 +1,19 @@
+item_id,item_name,category,price
+1,Espresso,Coffee,70
+2,Cappuccino,Coffee,90
+3,Cold Coffee,Coffee,100
+4,Chocolate Milkshake,Beverage,150
+5,Iced Lemonade,Beverage,100
+6,Plain Croissant,Bakery,90
+7,Chocolate Croissant,Bakery,130
+8,Chocolate Muffin,Bakery,100
+9,Blueberry Muffin,Bakery,120
+10,Banana Bread Slice,Bakery,80
+11,Brownie,Dessert,70
+12,Truffle Cake Slice,Dessert,100
+13,Veg Sandwich,Snacks,70
+14,Cheese Garlic Bread,Snacks,110
+15,Mini Pizza,Snacks,90
+16,Freshly Baked Bread,Bakery,50
+17,Whole Wheat Bread,Bakery,65
+18,Multigrain Bread,Bakery,80
