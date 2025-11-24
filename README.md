@@ -130,3 +130,5 @@ Ideal for Python learners looking to practice:
 - NumPy  
 - Matplotlib  
 - terminal-based applications  
+How to Run (Setup Instructions)
+ 1.) Clone the Repository: https://github.com/ayonijatripathi18-eng/Sweet-Bliss
